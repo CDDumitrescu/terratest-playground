@@ -1,0 +1,7 @@
+
+examples/.terraform/providers/registry.terraform.io/hashicorp/local/2.1.0/windows_amd64/terraform-provider-local_v2.1.0_x5.exe
+*.exe
+examples/.terraform.lock.hcl
+examples/terraform.tfstate
+examples/terraform.tfstate.backup
+examples/varfile.tfvars
